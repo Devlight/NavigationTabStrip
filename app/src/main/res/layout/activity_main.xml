@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="3">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="#ffffffff"
+            android:paddingEnd="30dp"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:paddingStart="30dp">
+
+            <com.gigamole.library.NavigationTabStrip
+                android:id="@+id/nts_top"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:layout_gravity="center"
+                app:nts_active_color="#42a4d1"
+                app:nts_color="#42a4d1"
+                app:nts_corners_radius="1dp"
+                app:nts_inactive_color="#ff1a1e23"
+                app:nts_size="15sp"
+                app:nts_titles="@array/titles"
+                app:nts_weight="3dp"/>
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="#ff252e39">
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="4dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="18dp"
+                android:background="#182128"/>
+
+            <com.gigamole.library.NavigationTabStrip
+                android:id="@+id/nts_center"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:layout_gravity="center"
+                android:layout_marginEnd="30dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginStart="30dp"
+                app:nts_active_color="#fff"
+                app:nts_color="#3cdedd"
+                app:nts_corners_radius="3.5dp"
+                app:nts_factor="0.8"
+                app:nts_gravity="bottom"
+                app:nts_inactive_color="#81ffffff"
+                app:nts_titles="@array/titles"
+                app:nts_type="point"
+                app:nts_typeface="fonts/moon.otf"
+                app:nts_weight="7dp"/>
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="#ff1a1e23"
+            android:paddingEnd="30dp"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:paddingStart="30dp">
+
+            <com.gigamole.library.NavigationTabStrip
+                android:id="@+id/nts_bottom"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                app:nts_active_color="#fff"
+                app:nts_color="#ff1748"
+                app:nts_factor="2.8"
+                app:nts_corners_radius="1.5dp"
+                app:nts_inactive_color="#81ffffff"
+                app:nts_titles="@array/titles"
+                app:nts_typeface="fonts/drugs.otf"
+                app:nts_weight="3dp"/>
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+</FrameLayout>
