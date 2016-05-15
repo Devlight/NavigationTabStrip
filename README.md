@@ -172,7 +172,7 @@ Inspiration
 
 Original interaction | Point interaction | Line interaction
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://d7natbl5lhry0.cloudfront.net/media/resource_image/image_1506)|![](https://s-media-cache-ak0.pinimg.com/originals/42/b4/47/42b447c201642b2e82c981bc6599d850.gif)|![](https://s-media-cache-ak0.pinimg.com/originals/40/ae/5e/40ae5eed129a90ac9e7ee73cdb24e69d.gif)
+![](https://d13yacurqjgara.cloudfront.net/users/259538/screenshots/2594107/tabs-transition.gif)|![](https://s-media-cache-ak0.pinimg.com/originals/42/b4/47/42b447c201642b2e82c981bc6599d850.gif)|![](https://s-media-cache-ak0.pinimg.com/originals/40/ae/5e/40ae5eed129a90ac9e7ee73cdb24e69d.gif)
 
 Author
 =======
