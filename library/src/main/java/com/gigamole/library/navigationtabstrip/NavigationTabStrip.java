@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.gigamole.library;
+package com.gigamole.library.navigationtabstrip;
 
 import android.animation.Animator;
 import android.animation.ArgbEvaluator;
@@ -39,6 +39,8 @@ import android.view.animation.AccelerateDecelerateInterpolator;
 import android.view.animation.Interpolator;
 import android.view.animation.LinearInterpolator;
 import android.widget.Scroller;
+
+import com.gigamole.library.R;
 
 import java.lang.reflect.Field;
 import java.util.Arrays;
