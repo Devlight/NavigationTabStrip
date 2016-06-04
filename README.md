@@ -142,7 +142,7 @@ Other methods check out in sample.
 And XML init:
 
 ```xml
-<com.gigamole.library.NavigationTabStrip
+<com.gigamole.library.navigationtabstrip.NavigationTabStrip
     android:layout_width="match_parent"
     android:layout_height="50dp"
     app:nts_color="#000"
