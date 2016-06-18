@@ -1,5 +1,5 @@
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-NavigationTabStrip-blue.svg?style=flat-square)](http://android-arsenal.com/details/1/3603)
-
+[![Download](https://api.bintray.com/packages/gigamole/maven/navigationtabstrip/images/download.svg) ](https://bintray.com/gigamole/maven/navigationtabstrip/_latestVersion)
 
 NavigationTabStrip
 ==================
@@ -25,14 +25,14 @@ dependencies {
             url  'http://dl.bintray.com/gigamole/maven/'
         }
     }
-    compile 'com.github.devlight.navigationtabstrip:library:+'
+    compile 'com.github.devlight.navigationtabstrip:navigationtabstrip:+'
 }
 ```
 
 Or Gradle Maven Central:
 
 ```groovy
-compile 'com.github.devlight.navigationtabstrip:library:1.0.1'
+compile 'com.github.devlight.navigationtabstrip:navigationtabstrip:1.0.2'
 ```
 
 Or Maven:
@@ -40,8 +40,8 @@ Or Maven:
 ```groovy
 <dependency>
     <groupId>com.github.devlight.navigationtabstrip</groupId>
-    <artifactId>library</artifactId>
-    <version>1.0.1</version>
+    <artifactId>navigationtabstrip</artifactId>
+    <version>1.0.2</version>
     <type>aar</type>
 </dependency>
 ```
@@ -142,7 +142,7 @@ Other methods check out in sample.
 And XML init:
 
 ```xml
-<com.gigamole.library.navigationtabstrip.NavigationTabStrip
+<com.gigamole.navigationtabstrip.NavigationTabStrip
     android:layout_width="match_parent"
     android:layout_height="50dp"
     app:nts_color="#000"

@@ -7,7 +7,7 @@ import android.support.v4.view.ViewPager;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.gigamole.library.navigationtabstrip.NavigationTabStrip;
+import com.gigamole.library.NavigationTabStrip;
 
 /**
  * Created by GIGAMOLE on 28.03.2016.
