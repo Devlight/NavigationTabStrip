@@ -25,7 +25,7 @@
             android:paddingRight="30dp"
             android:paddingStart="30dp">
 
-            <com.gigamole.library.NavigationTabStrip
+            <com.gigamole.navigationtabstrip.NavigationTabStrip
                 android:id="@+id/nts_top"
                 android:layout_width="match_parent"
                 android:layout_height="56dp"
@@ -53,7 +53,7 @@
                 android:layout_marginTop="18dp"
                 android:background="#182128"/>
 
-            <com.gigamole.library.NavigationTabStrip
+            <com.gigamole.navigationtabstrip.NavigationTabStrip
                 android:id="@+id/nts_center"
                 android:layout_width="match_parent"
                 android:layout_height="42dp"
@@ -85,7 +85,7 @@
             android:paddingRight="30dp"
             android:paddingStart="30dp">
 
-            <com.gigamole.library.NavigationTabStrip
+            <com.gigamole.navigationtabstrip.NavigationTabStrip
                 android:id="@+id/nts_bottom"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"

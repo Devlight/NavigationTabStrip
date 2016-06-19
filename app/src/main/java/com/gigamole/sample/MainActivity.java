@@ -1,4 +1,4 @@
-package com.gigamole.navigationtabstrip;
+package com.gigamole.sample;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -7,7 +7,7 @@ import android.support.v4.view.ViewPager;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.gigamole.library.NavigationTabStrip;
+import com.gigamole.navigationtabstrip.NavigationTabStrip;
 
 /**
  * Created by GIGAMOLE on 28.03.2016.

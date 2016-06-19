@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.gigamole.library;
+package com.gigamole.navigationtabstrip;
 
 import android.animation.Animator;
 import android.animation.ArgbEvaluator;
