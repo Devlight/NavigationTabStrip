@@ -1,4 +1,4 @@
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-NavigationTabStrip-blue.svg?style=flat-square)](http://android-arsenal.com/details/1/3603)
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-NavigationTabStrip-yellow.svg?style=flat)](http://android-arsenal.com/details/1/3603)
 [![Download](https://api.bintray.com/packages/gigamole/maven/navigationtabstrip/images/download.svg) ](https://bintray.com/gigamole/maven/navigationtabstrip/_latestVersion)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d41363ef8b8542b5ad7c6a3b1a788e95)](https://www.codacy.com/app/gigamole53/NavigationTabStrip?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DevLight-Mobile-Agency/NavigationTabStrip&amp;utm_campaign=Badge_Grade)
 
