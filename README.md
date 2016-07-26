@@ -54,12 +54,12 @@ Or Maven:
 Android SDK Version
 =========
 
-NavigationTabStrip requires a minimum SDK version of 11. 
+`NavigationTabStrip` requires a minimum SDK version of 11. 
 
 Sample
 ========
 
-For NTS you can set such parameters as:
+For `NTS` you can set such parameters as:
  
  - color:
     
@@ -67,7 +67,7 @@ For NTS you can set such parameters as:
     
  - size:
      
-    allows you to set titles size. By default NTS use auto titles size.
+    allows you to set titles size. By default `NTS` use auto titles size.
     
  - weight:
      
@@ -79,7 +79,7 @@ For NTS you can set such parameters as:
     
  - titles:
     
-    allows you to set NTS titles. This is your tabs.
+    allows you to set `NTS` titles. This is your tabs.
     
  - type:
     
@@ -91,7 +91,7 @@ For NTS you can set such parameters as:
     
  - view pager:
      
-    allows you to connect NTS with ViewPager. If you want your can also set OnPageChangeListener.    
+    allows you to connect `NTS` with `ViewPager`. If you want your can also set `OnPageChangeListener`.    
     
  - typeface:
  
@@ -119,9 +119,9 @@ For NTS you can set such parameters as:
 
 <b>Tips</b>
 
-If your set ViewPager you can action down on active tab and do like drag.
+If your set `ViewPager` you can action down on active tab and do like drag.
 
-NTS use only upper case titles.
+`NTS` use only upper case titles.
 
 <b>Init</b>
 
