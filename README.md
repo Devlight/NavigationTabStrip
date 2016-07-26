@@ -59,6 +59,8 @@ Android SDK Version
 Sample
 ========
 
+<b>Parameters</b>
+
 For `NTS` you can set such parameters as:
  
  - color:
