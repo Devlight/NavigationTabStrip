@@ -1,12 +1,13 @@
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-NavigationTabStrip-yellow.svg?style=flat)](http://android-arsenal.com/details/1/3603)
-[![Download](https://api.bintray.com/packages/gigamole/maven/navigationtabstrip/images/download.svg) ](https://bintray.com/gigamole/maven/navigationtabstrip/_latestVersion)
-[![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg?maxAge=2592000)](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip/blob/master/LICENSE.txt)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d41363ef8b8542b5ad7c6a3b1a788e95)](https://www.codacy.com/app/gigamole53/NavigationTabStrip?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DevLight-Mobile-Agency/NavigationTabStrip&amp;utm_campaign=Badge_Grade)
-
 NavigationTabStrip
 ==================
 
 Navigation tab strip with smooth interaction.
+
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-NavigationTabStrip-yellow.svg?style=flat)](http://android-arsenal.com/details/1/3603)
+[![Android](https://img.shields.io/badge/platform-android-brightgreen.svg?style=flat)]()
+[![Download](https://api.bintray.com/packages/gigamole/maven/navigationtabstrip/images/download.svg) ](https://bintray.com/gigamole/maven/navigationtabstrip/_latestVersion)
+[![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg?maxAge=2592000)](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip/blob/master/LICENSE.txt)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d41363ef8b8542b5ad7c6a3b1a788e95)](https://www.codacy.com/app/gigamole53/NavigationTabStrip?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DevLight-Mobile-Agency/NavigationTabStrip&amp;utm_campaign=Badge_Grade)
 
 ![](https://lh6.googleusercontent.com/-wpGnxe1Vefc/VziiygaS9WI/AAAAAAAACd4/c4fU_EG-DHkoby1SIbI5BDtqITpGiZZhwCL0B/w326-h551-no/nts.gif)
 
