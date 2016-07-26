@@ -117,9 +117,13 @@ For NTS you can set such parameters as:
   
     allows you to set listener which triggering on start or on end when you set tab index.
 
+<b>Tips</b>
+
 If your set ViewPager you can action down on active tab and do like drag.
 
 NTS use only upper case titles.
+
+<b>Init</b>
 
 Check out in code init:
 
@@ -177,8 +181,8 @@ Apache 2.0 and MIT. See [LICENSE](https://github.com/DevLight-Mobile-Agency/Navi
 Inspiration
 ======
 
-Original interaction | Point interaction | Line interaction
-:-------------------------:|:-------------------------:|:-------------------------:
+|     |     |     |
+|:---:|:---:|:---:|
 ![](https://d13yacurqjgara.cloudfront.net/users/259538/screenshots/2594107/tabs-transition.gif)|![](https://s-media-cache-ak0.pinimg.com/originals/42/b4/47/42b447c201642b2e82c981bc6599d850.gif)|![](https://s-media-cache-ak0.pinimg.com/originals/40/ae/5e/40ae5eed129a90ac9e7ee73cdb24e69d.gif)
 
 Author
