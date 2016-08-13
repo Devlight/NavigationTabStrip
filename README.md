@@ -37,7 +37,7 @@ dependencies {
 Or Gradle Maven Central:
 
 ```groovy
-compile 'com.github.devlight.navigationtabstrip:navigationtabstrip:1.0.3'
+compile 'com.github.devlight.navigationtabstrip:navigationtabstrip:1.0.4'
 ```
 
 Or Maven:
@@ -46,7 +46,7 @@ Or Maven:
 <dependency>
     <groupId>com.github.devlight.navigationtabstrip</groupId>
     <artifactId>navigationtabstrip</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <type>aar</type>
 </dependency>
 ```
