@@ -1,22 +1,36 @@
+<br/>
+<p align="center">
+  <a href="http://devlight.io">
+      <img src ="https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScLVBKck51Z1Rzb0E" alt="Devlight"/>
+  </a>
+</p>
+<br/>
+
 NavigationTabStrip
 ==================
 
 Navigation tab strip with smooth interaction.
 
-[![DevLight](https://lh4.googleusercontent.com/-9btnRFp_eVo/V5cfwZsBpMI/AAAAAAAAC4E/s4NGoezKhpAVdVofAoez1QWpzK5Na8_cQCL0B/w147-h20-no/devlight-badge.png)](http://devlight.com.ua)
+[![Android Arsenal](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScN3B6NjFmWDVKaVE)](http://android-arsenal.com/details/1/3603)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Android](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wSccEZaclNGN0R5OWc)](https://github.com/DevLight-Mobile-Agency)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Download](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScdFUzeWFwUURBME0)](https://bintray.com/gigamole/maven/navigationtabstrip/_latestVersion)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![License](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScU0tmeFpGMHVWNWs)](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip/blob/master/LICENSE.txt)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Codacy](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScSHhmckZyeGJDcXc)](https://www.codacy.com/app/gigamole53/NavigationTabStrip?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DevLight-Mobile-Agency/NavigationTabStrip&amp;utm_campaign=Badge_Grade)
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-NavigationTabStrip-yellow.svg?style=flat)](http://android-arsenal.com/details/1/3603)
-[![Android](https://img.shields.io/badge/platform-android-brightgreen.svg?style=flat&label=Platform)](https://github.com/DevLight-Mobile-Agency)
-[![Download](https://api.bintray.com/packages/gigamole/maven/navigationtabstrip/images/download.svg) ](https://bintray.com/gigamole/maven/navigationtabstrip/_latestVersion)
-[![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg?maxAge=2592000&label=License)](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip/blob/master/LICENSE.txt)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d41363ef8b8542b5ad7c6a3b1a788e95)](https://www.codacy.com/app/gigamole53/NavigationTabStrip?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DevLight-Mobile-Agency/NavigationTabStrip&amp;utm_campaign=Badge_Grade)
+<br/>
 
-![](https://lh6.googleusercontent.com/-wpGnxe1Vefc/VziiygaS9WI/AAAAAAAACd4/c4fU_EG-DHkoby1SIbI5BDtqITpGiZZhwCL0B/w326-h551-no/nts.gif)
+<p align="center">
+  <img src ="https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScR3FUNTRvS1BJeEE" alt="Devlight"/>
+</p>
 
 You can check the sample app [here](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip/tree/master/app).
 
 Download
-------------
+========
 
 You can download a `.aar` from GitHub's [releases page](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip/releases).
 
@@ -52,77 +66,62 @@ Or Maven:
 ```
 
 Android SDK Version
-=========
+===================
 
 `NavigationTabStrip` requires a minimum SDK version of 11. 
 
 Sample
-========
+======
 
 <b>Parameters</b>
 
 For `NTS` you can set such parameters as:
  
- - color:
-    
+ - color:  
     allows you to set strip color.
     
- - size:
-     
+ - size:  
     allows you to set titles size. By default `NTS` use auto titles size.
     
- - weight:
-     
+ - weight:  
     allows you to set weight(height) of strip.
     
- - factor:
-     
+ - factor:  
     allows you to set strip resize factor.
     
- - titles:
-    
+ - titles:  
     allows you to set `NTS` titles. This is your tabs.
     
- - type:
-    
+ - type:  
     allows you to set strip type - line or point.
     
- - gravity:
-    
+ - gravity:  
     allows you to set strip gravity - top or bottom.
     
- - view pager:
-     
+ - view pager:  
     allows you to connect `NTS` with `ViewPager`. If you want your can also set `OnPageChangeListener`.    
     
- - typeface:
- 
+ - typeface:  
     allows you to set custom typeface to your titles.
  
- - corners radius:
-    
+ - corners radius:  
     allows you to set corners radius of strip.
 
- - animation duration:
-  
+ - animation duration:  
     allows you to set animation duration.
       
- - inactive color:
-
+ - inactive color:  
     allows you to set inactive titles color.
      
- - active color:
-  
+ - active color:  
     allows you to set active title color.
      
- - tab strip listener:
-  
+ - tab strip listener:  
     allows you to set listener which triggering on start or on end when you set tab index.
 
 <b>Tips</b>
 
-If your set `ViewPager` you can action down on active tab and do like drag.
-
+If your set `ViewPager` you can action down on active tab and do like drag.  
 `NTS` use only upper case titles.
 
 <b>Init</b>
@@ -171,38 +170,43 @@ And XML init:
 ```
 
 Getting Help
-======
+============
 
 To report a specific problem or feature request, [open a new issue on Github](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip/issues/new).
 
-License
-======
-
-Apache 2.0 and MIT. See [LICENSE](https://github.com/DevLight-Mobile-Agency/NavigationTabStrip/blob/master/LICENSE.txt) file for details.
-
-Inspiration
-======
-
-|     |     |     |
-|:---:|:---:|:---:|
-![](https://d13yacurqjgara.cloudfront.net/users/259538/screenshots/2594107/tabs-transition.gif)|![](https://s-media-cache-ak0.pinimg.com/originals/42/b4/47/42b447c201642b2e82c981bc6599d850.gif)|![](https://s-media-cache-ak0.pinimg.com/originals/40/ae/5e/40ae5eed129a90ac9e7ee73cdb24e69d.gif)
-
-Author
+Xamarin
 =======
 
-Made in [DevLight Mobile Agency](https://github.com/DevLight-Mobile-Agency)
+Thanks to [Martijn van Dijk](https://github.com/martijn00) for developing Xamarin bindings library for [NavigationTabStrip](https://github.com/martijn00/NavigationTabStripXamarin).  
+Plugin is available on [Nuget](https://www.nuget.org/packages/Xam.Plugins.Android.NavigationTabStrip/).
+
+
+Credits
+=======
+
+|[Keren Rijensky](https://dribbble.com/KerenRij)|[Srikant Shetty](https://dribbble.com/Srikant)|[Oleg Frolov](https://dribbble.com/Volorf)|
+|:---------------------------------------------:|:--------------------------------------------:|:----------------------------------------:|
+|[![](https://d13yacurqjgara.cloudfront.net/users/259538/screenshots/2594107/tabs-transition.gif)](https://dribbble.com/shots/2594107-tabs-transition)|[![](https://s-media-cache-ak0.pinimg.com/originals/42/b4/47/42b447c201642b2e82c981bc6599d850.gif)](https://dribbble.com/shots/2125041-Tab-interaction)|[![](https://s-media-cache-ak0.pinimg.com/originals/40/ae/5e/40ae5eed129a90ac9e7ee73cdb24e69d.gif)](https://dribbble.com/shots/2561589-Tabs)|
+
+Author
+======
 
 Created by [Basil Miller](https://github.com/GIGAMOLE) - [@gigamole](mailto:gigamole53@gmail.com)
 
-Support
+Company
 =======
 
-If you'd like to support future development and new product features, please make a payments on Gratipay and Beerpay or become a patron on Patreon.
+[![Facebook](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScaGhGVFNKU0VxMnc)](https://www.facebook.com/devlightagency)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wScZ1ExQWh5cHF5cVE)](https://twitter.com/DevLightIO)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://drive.google.com/uc?export=download&id=0BxPO_UeS7wSccGZINzEycE1nVFE)](https://www.linkedin.com/company/devlight)
 
-[![Gratipay](https://img.shields.io/gratipay/user/gigamole.svg?maxAge=2592000)](https://gratipay.com/~GIGAMOLE/)
-[![Beerpay](https://beerpay.io/DevLight-Mobile-Agency/NavigationTabStrip/badge.svg?style=flat)](https://beerpay.io/DevLight-Mobile-Agency/NavigationTabStrip)
-[![Patreon](https://lh5.googleusercontent.com/-lXI_oKp5724/V58ysdDtxHI/AAAAAAAAC7s/g91W_YT2SM0Q_VaIhDAMmoe-jHPP3ijJwCL0B/w140-h20-no/patreon-badge.png)](https://www.patreon.com/gigamole)
+[Here](https://github.com/DevLight-Mobile-Agency) you can see open source work developed by Devlight LLC.  
+This and another works is an exclusive property of Devlight LLC. 
 
-Also, if you use this library in applications that are available on Google Play, please report it to us or author.
+If you want to use this library in applications which will be available on Google Play, please report us about it or author of the library.
 
+Whether you're searching for a new partner or trusted team for creating your new great product we are always ready to start work with you. 
+
+You can contact us via info@devlight.io or opensource@devlight.io.  
 Thanks in advance.
+
+Devlight LLC, 2016  
+[devlight.io](http://devlight.io) 
