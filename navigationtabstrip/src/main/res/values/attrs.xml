@@ -7,6 +7,7 @@
         <attr name="nts_weight" format="dimension"/>
         <attr name="nts_factor" format="float"/>
         <attr name="nts_titles" format="reference"/>
+        <attr name="nts_bold" value="true"/>
 
         <attr name="nts_type" format="enum">
             <enum name="line" value="0"/>
