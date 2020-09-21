@@ -518,8 +518,11 @@ public class NavigationTabStrip extends View implements ViewPager.OnPageChangeLi
         // This check gives us opportunity to have an non selected tab
         if (mIndex == INVALID_INDEX) force = true;
 
+        //Don't do,lets see if this helps us fix bug when reselcting selected tab doesnt fire listener
+//         {
         // Detect if last is the same
-        if (index == mIndex) return;
+//         if (index == mIndex) return;
+//     }
 
         // Snap index to tabs size
         index = Math.max(0, Math.min(index, mTitles.length - 1));
