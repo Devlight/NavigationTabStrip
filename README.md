@@ -54,7 +54,7 @@ dependencies {
             url  'http://dl.bintray.com/gigamole/maven/'
         }
     }
-    compile 'com.github.devlight.navigationtabstrip:navigationtabstrip:+'
+    implementation 'com.github.devlight.navigationtabstrip:navigationtabstrip:+'
 }
 ```
 
